@@ -1,0 +1,175 @@
+body{
+    background-color:  #E5E5E5;
+}
+.main{background: #1C2133;}
+.main2{
+    background: #21273D;
+    border: 1.5px solid #585C6D;
+}
+.main button{
+    position: relative;
+    left: 485px;
+    bottom: 30px;
+}
+.main h1{   
+    position: relative;
+    top: 24px;}
+.nav{
+    margin-left: 18%;
+}
+.img{
+    position: relative;
+    right: 6px;
+    bottom: 2px;
+}
+.select{
+    position: relative;
+    top: 85%;
+    left: 30%;
+}
+.submit{
+    height: 45px;
+    width: 12%;
+    background: #D19F4E;
+    border-style: none;
+    position: relative;
+    left: 72%;
+}
+.input{background: #F7F7F9;}
+.findRoom{
+    height: 157%;
+    width: 125%;
+    background: #D19F4E;
+    border-style: none;
+    margin-left: 3px;
+}
+select{height: 160%;}
+.user{
+    position: relative;
+    left: 30%;
+    bottom: 27px;}
+.room{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+}
+ a.nav-link:visited{text-decoration: #D19F4E;}
+a.nav-link:hover{color: #D19F4E;}
+a.nav-link:active{color: #D19F4E;}
+.nav1{    background: #21273D;}
+.booking{
+    background-color:  #D19F4E;
+    border: 2px solid #D19F4E;
+    width: 107px;
+    height: 45px;
+    color: white;
+}
+li{
+    list-style: none;
+}
+.checked{
+    color:  #D19F4E;
+}
+.comfort{
+    background-color:  #21273D;
+    height: 400px;
+}
+.cozy{
+    height: 400px;
+}
+#header{
+    background-image: url(Images/Header.png);
+    height: 700px;
+}
+footer{
+    background-color: #21273D;
+}
+.love{
+    width: 8%;
+    height: 28px;
+    border-radius: 82%;
+    position: relative;
+    left: 300px;
+    bottom: 310px;
+}
+.border{
+    background: linear-gradient(0deg, #21273D, #21273D), #C4C4C4;
+}
+.testimonies{
+    border-radius: 52%;
+}
+.Subscribe{
+    background-color: #FDF3E7;
+}
+.check{
+    position: relative;
+    right: 8px;
+   
+}
+.ul{
+    margin-left: -27px;
+}
+.text{color: #D19F4E;}
+.borderTop{
+    border-top-color: rgba(209, 159, 78, 0.5);
+    border-top-style: solid;
+    border-width: thin;
+}
+.borderTop p{
+    position: relative;
+    top: 53px;
+}
+.checkbox{
+    border: 3px solid #D19F4E;
+    border-radius: 52%;
+    margin-bottom: 3px;
+    background: linear-gradient(0deg, #21273D, #21273D), #C4C4C4;
+}
+footer ul{
+    margin-left: -36px;
+}
+footer a{
+    color: white;
+}
+#email{
+    height: 82%;
+    width: 122%;
+    padding-left: 15px;
+    border: 1px solid #BFB8B8;
+    background: #F7F7F9;
+}
+.view{
+    color: #D19F4E;
+}
+#learn{
+    background: #D19F4E;
+    width: 20%;
+    height: 38px;
+    border-style: none;
+}
+.abode{
+    position: relative;
+    bottom: 38px;
+    width: 77%;
+    right: 10%;
+}
+.abode p{
+    margin-top: 25px;
+    line-height: 30px;
+}
+.rect1{
+    bottom: 12px;
+    width: 30%;
+    position: relative;
+    left: 35%;
+    background: #DBDBDB;
+}
+.rect2{
+    background: #FBB03B;
+    height: 3px;
+    width: 4%;
+}
+#subscribe{
+    height: 82%;
+    width: 40%;
+    background: #D19F4E;
+    border-style: none;
+}
